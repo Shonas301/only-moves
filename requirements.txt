@@ -1,0 +1,4 @@
+click
+cachetools
+python-chess
+stockfish
